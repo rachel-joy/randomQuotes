@@ -1,0 +1,38 @@
+body {
+  background-color: #FBB0FF;
+}
+
+#content {
+    min-height: 100px;
+    min-width: 280px;
+    background-color: #3da1ed;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.quote-content {
+  padding: 15px;
+  font-size: 20px;
+  color: #fdf4ff;
+}
+
+.quote-author {
+  padding-bottom: 15px;
+  font-size: 20px;
+  color: #fdf4ff;
+  text-align: right;
+}
+
+.buttons {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.button {
+  background-color: #fdf4ff;
+  color: #E71DF2;
+}
+
+.buttons button:hover{
+    background-color: #FBB0FF;
+}
